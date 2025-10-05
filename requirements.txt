@@ -1,0 +1,20 @@
+# Data
+pandas>=2.0.0
+
+# Text splitting
+langchain>=0.1.17
+langchain-text-splitters>=0.0.1
+
+# Embeddings
+langchain-huggingface>=0.0.2
+sentence-transformers>=2.2.0
+
+# Vector DB
+chromadb>=0.4.24
+
+# LLM
+transformers>=4.35.0
+torch>=2.1.0
+
+# Utilities
+tqdm
